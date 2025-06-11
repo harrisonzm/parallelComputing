@@ -72,7 +72,7 @@ int main() {
     }
     //mostrar el arreglo Pi
     for (int i = 0; i < P; i++) {
-        printf("Pi %d\n",Pi[0][i][0]);
+        printf("conjunto 0 de Pi %d\n",Pi[0][i][0]);
     }
     // Step 2
     int u = 1, v = P;
